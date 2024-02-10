@@ -1,0 +1,33 @@
+nav ul {
+   // justify-content: flex-end;
+    display: flex;
+    list-style: none;
+    padding: 0;
+  }
+  nav ul li a {
+    text-decoration: none;
+  }
+  
+  
+  nav ul li {
+    margin-right: 100px; /* Adjust space between menu items */
+    text-decoration: none;
+  }
+  nav ul li a:hover {
+    text-decoration: underline; /* Add underline on hover */
+    color: #032952; /* Change color on hover */
+  }
+  
+//   html, body {
+//     height: 100%;
+//     margin: 0;
+//   }
+  
+//   body {
+//     display: flex;
+//     flex-direction: column;
+//   }
+  
+//   .content {
+//     flex: 1;
+//   }
